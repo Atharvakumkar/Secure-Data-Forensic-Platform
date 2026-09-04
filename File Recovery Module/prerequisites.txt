@@ -1,0 +1,6 @@
+Ubuntu / WSL2
+The Sleuth Kit
+dosfstools
+util-linux
+coreutils
+Git
