@@ -1,4 +1,4 @@
-# Sleuth Kit (TSK) Deleted-File Recovery Lab
+# Sleuth Kit (TSK) Deleted-File Recovery Test
 
 ## Objective
 
