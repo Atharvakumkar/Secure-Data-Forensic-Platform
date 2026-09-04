@@ -4,3 +4,8 @@ dosfstools
 util-linux
 coreutils
 Git
+
+-----------------------------Command to install the requirements----------------------------------
+sudo apt update
+sudo apt install sleuthkit dosfstools util-linux coreutils git
+--------------------------------------------------------------------------------------------------
